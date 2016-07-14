@@ -1,0 +1,47 @@
+{
+  "product": "Wiki SuperCell",
+  "version": 3.1,
+  "releaseDate": "2016-07-14T00:00:00.000Z",
+  "channels": [
+    "UC874WmmCVtIwTG4gQbWHKUQ",
+    "UCxNMYToYIBPYV829BJcmUQg",
+    "UCTqoYXL5p_aOdsgDWzxRBzQ",
+    "UCMxYQX1zaepCgmiSmwbT39w"
+  ],
+  "playlists": [
+    {
+      "name": "Clash Royale",
+      "thumbnailUrl": "888-555-1212",
+      "playlistIDs": [
+        "PLVtnr346pBuTT7lvDiurDeZRLoeNYk9lK",
+        "PLVtnr346pBuQ_F1ub_u3m2v6LGyJ8JY3p",
+        "PLVtnr346pBuStYdMB-442vc16Ofo7wXDL",
+        "PLVtnr346pBuQd55-lqpnIKfumDoOZsneK",
+        "PLVtnr346pBuQxv1ttQyqIY5UYUzr-x3xJ"
+      ]
+    },
+    {
+      "name": "Boom Beach",
+      "thumbnailUrl": "877-123-1212",
+      "playlistIDs": [
+        "PLL0_pgYXAhijMzFZNoif6yZdBSMr0l30F",
+        "PL3xl1Whm1aOG5Um9sQBr8t8TaGJwpTlwz",
+        "PL3xl1Whm1aOGMB3_ywa8ISzo3kckCaVbt",
+        "PL3xl1Whm1aOH0OIcSQ1_-vVhKatDcQeaP",
+        "PL3xl1Whm1aOGf5T4Za24XfL4NNGYCp1l8"
+      ]
+    },
+    {
+      "name": "Clash of Clans",
+      "thumbnailUrl": "877-123-1212",
+      "playlistIDs": [
+        "PLL0_pgYXAhihvA--aSBJ_e5P-QnbnuF5q",
+        "PLVtnr346pBuSliOTCIWvnxto_0K-XG24s",
+        "PLL0_pgYXAhihsE3UXSZwz5n5n9ULEXSmA",
+        "PL3xl1Whm1aOGPDkh0BGve4SJ227ppYR89",
+        "PL3xl1Whm1aOE7J8Z-ST2UNDRf1l2MWAgL",
+        "PL3xl1Whm1aOEKT9k45HQ9E_Ud79KgS3It"
+      ]
+    }
+  ]
+}
