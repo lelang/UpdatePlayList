@@ -1,50 +1,209 @@
 {
-  "product": "Wiki SuperCell",
-  "version": 1.0,
-  "releaseDate": "2016-07-17T00:10:00.000Z",
-  "AndroidAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
-  "iOSAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
-  "channels": [
-    "UC874WmmCVtIwTG4gQbWHKUQ",
-    "UCxNMYToYIBPYV829BJcmUQg",
-    "UCTqoYXL5p_aOdsgDWzxRBzQ",
-    "UCMxYQX1zaepCgmiSmwbT39w",
-    "UCuoTqrobMyZj0ge8LOCkiSw"
-  ],
-  "playlists": [
-    {
-      "name": "Clash Royale",
-      "thumbnailUrl": "888-555-1212",
-      "playlistIDs": [
-        "PLVtnr346pBuTT7lvDiurDeZRLoeNYk9lK",
-        "PLVtnr346pBuQ_F1ub_u3m2v6LGyJ8JY3p",
-        "PLVtnr346pBuStYdMB-442vc16Ofo7wXDL",
-        "PLVtnr346pBuQd55-lqpnIKfumDoOZsneK",
-        "PLVtnr346pBuQxv1ttQyqIY5UYUzr-x3xJ"
-      ]
-    },
-    {
-      "name": "Boom Beach",
-      "thumbnailUrl": "877-123-1212",
-      "playlistIDs": [
-        "PL3xl1Whm1aOHzOBjs_kpsgRVArFW19sP",
-        "PL3xl1Whm1aOG5Um9sQBr8t8TaGJwpTlwz",
-        "PL3xl1Whm1aOGMB3_ywa8ISzo3kckCaVbt",
-        "PL3xl1Whm1aOH0OIcSQ1_-vVhKatDcQeaP",
-        "PL3xl1Whm1aOGf5T4Za24XfL4NNGYCp1l8"
-      ]
-    },
-    {
-      "name": "Clash of Clans",
-      "thumbnailUrl": "877-123-1212",
-      "playlistIDs": [
-        "PLVtnr346pBuSliOTCIWvnxto_0K-XG24s",
-        "PLL0_pgYXAhihsE3UXSZwz5n5n9ULEXSmA",
-        "PL3xl1Whm1aOGPDkh0BGve4SJ227ppYR89",
-        "PL3xl1Whm1aOEKT9k45HQ9E_Ud79KgS3It",
-        "PLckmueNaOA8uqToHXlDeAjv2P87ju-CwR",
-        "PLckmueNaOA8srrHCK2iWEvpmomoF_0k8N"
-      ]
-    }
-  ]
+    "product": "Wiki SuperCell",
+    "version": 1.0,
+    "releaseDate": "2016-08-07T00:00:00.000Z",
+    "AndroidAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
+    "iOSAPIKey": "AIzaSyCOnGd-YXae_zg4SfpzHqgNe4cS8ZfEgfE",
+    "numberOfVideos": 3,
+    "channelString": "UCTqoYXL5p_aOdsgDWzxRBzQ,UC874WmmCVtIwTG4gQbWHKUQ,UCxNMYToYIBPYV829BJcmUQg,UCMxYQX1zaepCgmiSmwbT39w,UC2l8G7UE41Vaby59Dfg6r3w,UCMYdLBEudBeU-c0AguEaiHA,UCpk3zQzLnN5WwcA8gRcPgiw,UC3S6nIDGJ5OtpC-mbvFA8Ew",
+    "channels": [
+                 "UCTqoYXL5p_aOdsgDWzxRBzQ",
+                 "UC874WmmCVtIwTG4gQbWHKUQ",
+                 "UCxNMYToYIBPYV829BJcmUQg",
+                 "UCMxYQX1zaepCgmiSmwbT39w",
+                 
+                 "UC2l8G7UE41Vaby59Dfg6r3w",
+                 "UCMYdLBEudBeU-c0AguEaiHA",
+                 "UCpk3zQzLnN5WwcA8gRcPgiw",
+                 "UC3S6nIDGJ5OtpC-mbvFA8Ew"
+                 
+                 ],
+    "playlists": [
+                  {
+                  "name": "Clash Royale",
+                  "thumbnailUrl": "888-555-1212",
+                  "playlistIDs": [
+                                  "PLckmueNaOA8uQwBWDXGVNHHnTby4Pjzun",
+                                  "PLVtnr346pBuQ_F1ub_u3m2v6LGyJ8JY3p",
+                                  "PLVtnr346pBuTT7lvDiurDeZRLoeNYk9lK",
+                                  "PLVtnr346pBuStYdMB-442vc16Ofo7wXDL",
+                                  "PLVtnr346pBuQd55-lqpnIKfumDoOZsneK",
+                                  
+                                  "PLVtnr346pBuQxv1ttQyqIY5UYUzr-x3xJ",
+                                  "PLVtnr346pBuQf5mV8q7siMKk9k7W2KE3y",
+                                  "PLVtnr346pBuS3YTj2FHduG3evZ4jibGf",
+                                  "PLVtnr346pBuTJ0unbWcvBSGwWLLhbVU7z",
+                                  "PLVtnr346pBuTIpuizmL_7km3dDHQcEVf5",
+                                  
+                                  "PLVtnr346pBuStSfTMQ4SdRZOyujnMlP_r",
+                                  "PLL0_pgYXAhiic6kt2O81Ok05hM-l22dYk",
+                                  "PLL0_pgYXAhii7wFIftQW0nOpmukAkAElN",
+                                  "PLckmueNaOA8sAGJsfImNl5iOZ7z-46SCT",
+                                  "PL3xl1Whm1aOFufXNfAL603llu75BTu3m6",
+                                  "PLL0_pgYXAhijMzFZNoif6yZdBSMr0l30F",
+                                  
+                                  "PLzoe-7u0fWF6-NADgkBp83BO3l2Q0uQVr",
+                                  "PLzoe-7u0fWF5bQ0uOzQWKr6qBenur5-Jc",
+                                  "PLzoe-7u0fWF48ikljESwSlapD1apkNAdE",
+                                  "PLBkS3zMP77PGSYoX-OlyxMPPsZC8rfiXa",
+                                  "PLBkS3zMP77PGvLb7xj9JbaJjpYvpmphqf",
+                                  "PLBkS3zMP77PFczeFgusgH8ZDQkKjgzZYA",
+                                  
+                                  "PLzoe-7u0fWF6vmkJmlnx6yoCwdft04eE_",
+                                  "PLzoe-7u0fWF4WEVo4yAW09AVIR2k0hziw",
+                                  "PLTiSALGQMIQ6tBKA7znVx-mSddGkwUOGH",
+                                  "PLz3utPLAut6E0UGA2nCkiOL3sodpv4U8M",
+                                  "PLz3utPLAut6GKZADTdg3zK6lh20D0KB6Z",
+                                  "PLz3utPLAut6HAIeljNAfVYfQ_BL4G4ivS",
+                                  "PLz3utPLAut6HZfld5RtelSdXdLB0OTjj",
+                                  "PLBkS3zMP77PEVkpksI2W52ofw27Y4JfU-"
+                                  
+                                  ]
+                  },
+                  {
+                  "name": "Boom Beach",
+                  "thumbnailUrl": "877-123-1212",
+                  "playlistIDs": [
+                                  "PL3xl1Whm1aOG5Um9sQBr8t8TaGJwpTlwz",
+                                  "PL3xl1Whm1aOGMB3_ywa8ISzo3kckCaVbt",
+                                  "PL3xl1Whm1aOEoUt8bn8Sn-RsdSteWxO1i",
+                                  "PL3xl1Whm1aOFX-4Bee1JzNPXEkPnvYum8",
+                                  "PL3xl1Whm1aOG6pGuV9aBJkpvGgcmytwux",
+                                  
+                                  "PL3xl1Whm1aOGD1oZtpZ4sDSJbwBZE8GsS",
+                                  "PL3xl1Whm1aOH0OIcSQ1_-vVhKatDcQeaP",
+                                  "PL3xl1Whm1aOHbZVWa9DmEyowyLgLPNv5K",
+                                  "PL3xl1Whm1aOH6dQd2uLOyqCv4TpyxFafl",
+                                  "PL3xl1Whm1aOGf5T4Za24XfL4NNGYCp1l8",
+                                  
+                                  "PL3xl1Whm1aOG4oEK8wtbq3synILnUUMYC",
+                                  "PL3xl1Whm1aOGktRH91Zb4jGDf9IBufzZz",
+                                  "PL3xl1Whm1aOHzOBjs_kpsgRVArFW19sP",
+                                  "PL3xl1Whm1aOEtPfz0aXjvo5SqPQt6XkbD",
+                                  
+                                  "PLBkS3zMP77PFaAlmd610FHTyxdjoaM4mC",
+                                  "PLBkS3zMP77PGBVl_kQMAG-TEDOMR0uYui",
+                                  "PLBkS3zMP77PHUQHrzDeMlzj3qwbMy_3yV",
+                                  "PLBkS3zMP77PGsrJhHYOcvKGNuuYF3BOcw",
+                                  "PLBkS3zMP77PGdk05ZoSu0oO4-K9_voD24",
+                                  "PLBkS3zMP77PFkN9MOJkZQ3MTJIbleeXeS",
+                                  
+                                  "PLTiSALGQMIQ7ctF7O2vTE4SxMKJSEWUGC",
+                                  "PLBkS3zMP77PHy26Tj9JKywDT6KfKYxEKk",
+                                  "PLBkS3zMP77PHfrSm3IZpGpvD7fghtZvPl",
+                                  "PLBkS3zMP77PEI8QeIbfvzB882mM2KgZee",
+                                  "PLBkS3zMP77PFmKfPCITMxUlpcOApIiq3d",
+                                  "PLBkS3zMP77PGHtSPgfAcZ-4ogSbckuNjs",
+                                  
+                                  "PLBkS3zMP77PElebYgd_jt6c-ISfwoPzcs",
+                                  "PLBkS3zMP77PFp_nHx7pbYvkVr7ocg_Y2G",
+                                  "PLBkS3zMP77PGajbofKKKU561cQoS3EE4j",
+                                  "PLBkS3zMP77PFtzoA-Zl6FkhdjdXPVztK1",
+                                  "PLBkS3zMP77PGixC0Vc-sJdP8aFYN2I8zp",
+                                  "PLBkS3zMP77PFnNBth_G5ZePTTaYB9-Cqf"
+                                  
+                                  ]
+                  },
+                  {
+                  "name": "Clash of Clans",
+                  "thumbnailUrl": "877-123-1212",
+                  "playlistIDs": [
+                                  "PLckmueNaOA8sRakljmfEGytT-XX3-HvVe",
+                                  "PL3xl1Whm1aOEGkRwhGlotTqG2QgLSMPgR",
+                                  "PLckmueNaOA8uKjfPe0shLKqbnXntgEzPr",
+                                  "PLVtnr346pBuSPaGjefgczyqR-n5Jir5H3",
+                                  "PLckmueNaOA8vWa0H5PT-aAR-VI3aci8ip",
+                                  
+                                  "PLVtnr346pBuSNxwHhrATMVRMQMbyhnMGb",
+                                  "PLVtnr346pBuSliOTCIWvnxto_0K-XG24s",
+                                  "PLVtnr346pBuRQqdkTXU1GRrOb-p64nqDx",
+                                  "PLVtnr346pBuT3Z3szI1XfWeUQqtldQnJZ",
+                                  "PLckmueNaOA8uPOEt4hIeAnGVwHjichAAr",
+                                  "PLVtnr346pBuTBDgeapRKoUVgKT_3H7SXR",
+                                  
+                                  "PLVtnr346pBuSJ-U_NHk2pW02CU7L8XeVX",
+                                  "PLVtnr346pBuTPtJy8118q_HZEI4EljKGb",
+                                  "PLL0_pgYXAhihsE3UXSZwz5n5n9ULEXSmA",
+                                  "PL3xl1Whm1aOGPDkh0BGve4SJ227ppYR89",
+                                  "PLckmueNaOA8uXmjw7ygidCUka_gf1Ytcf",
+                                  "PLL0_pgYXAhigDXhY0TU_1b8bw5F9nOJgu",
+                                  
+                                  "PLckmueNaOA8tdRqOmToSeDLi93yY-uD7W",
+                                  "PL3xl1Whm1aOFG53y8LkX62JPITpas5KFz",
+                                  "PLckmueNaOA8tF-RdW5AOK32wGmZdpftWs",
+                                  "PLckmueNaOA8vYsZOKwYnk6sxgQfzKRZsX",
+                                  
+                                  "PLVtnr346pBuRM1BcYc9T8xfH_X2DKl0_O",
+                                  "PLVtnr346pBuTJvLCiegFekWWVNvbOP7Jw",
+                                  "PLL0_pgYXAhihcV6VVPeJ8OVBj6k-dwzZc",
+                                  "PL3xl1Whm1aOEKT9k45HQ9E_Ud79KgS3It",
+                                  "PLVtnr346pBuSN1zsmCrixEQFm_KM9-BlL",
+                                  
+                                  "PLVtnr346pBuSKYacIxatF3XqGsaTMRsRy",
+                                  "PLVtnr346pBuSHYRP8w9bYllZJKNuJwoiu",
+                                  "PLckmueNaOA8tNIbGemGF4fCSmXrUMFB1p",
+                                  "PLckmueNaOA8sfgTv4L7VPkyfgnR7R4Ys6",
+                                  "PLL0_pgYXAhigYXN9gz4HuXnceml0pDs1i",
+                                  "PLckmueNaOA8uqToHXlDeAjv2P87ju-CwR",
+                                  
+                                  "PLckmueNaOA8srrHCK2iWEvpmomoF_0k8N",
+                                  "PLckmueNaOA8syIq1nxFCt_gqCig5Uvwy5",
+                                  "PL3xl1Whm1aOHidCdwrwNV8oRJBiNsfK23",
+                                  "PLckmueNaOA8s-UTZuzjwQ5eU5FWYpaj0U",
+                                  "PL3xl1Whm1aOGgU47Jcf7dPRZdEI7CDE2N",
+                                  "PLckmueNaOA8u21PEKlaHtM252IHazHfpB",
+                                  
+                                  "PLckmueNaOA8sJommEApeAi9kP204abLhB",
+                                  "PLckmueNaOA8vdXSN6iOVbYHBN7SL7J6cW",
+                                  "PLckmueNaOA8uzyZzMkouYbHbPvGp_69oD",
+                                  
+                                  "PLL0_pgYXAhigovf-5gzYY0mWc6ct2niCt",
+                                  "PLckmueNaOA8tHySrgT1dCtABTjApYr3c2",
+                                  "PLL0_pgYXAhihVeSrljIe8nPM_2r2Ep0K6",
+                                  "PL3xl1Whm1aOEyU-XgOtPEEXPYyPYi4_id",
+                                  "PLckmueNaOA8sIleCb90SmSrdWzfFAJa6C",
+                                  "PL3xl1Whm1aOFWK05GJOjptBUA7zk9HMLd",
+                                  
+                                  "PLL0_pgYXAhihsCQ0dDdUHAbayZ7b9q3KP",
+                                  "PLL0_pgYXAhihv1fChD7sOT6Yjgr5SdxC3",
+                                  "PL3xl1Whm1aOGgapp7mxkGlPoHxSP2N2sA",
+                                  "PLckmueNaOA8ti8DgFuhcoQbTXDCJyqFgT",
+                                  "PL3xl1Whm1aOEZ3zaeUL_luC1M0Ihro7j9",
+                                  "PL3xl1Whm1aOHH2tgRb9sQpYKX3uMIEXUC",
+                                  
+                                  "PL3xl1Whm1aOHxaUYiUAQSaY9963aSbGk0",
+                                  "PLL0_pgYXAhijcGpN87iHD7S_tiLRFZq2T",
+                                  "PL3xl1Whm1aOF_nhq4zsW1drxlucSzyBd9",
+                                  "PL3xl1Whm1aOGwihpQpPR2tawzHojMRowf",
+                                  
+                                  "PL3xl1Whm1aOFzS_sZxd_PtFjZWXsvLitJ",
+                                  "PL3xl1Whm1aOEO5MsGrpRfkhUDzG6-SCsu",
+                                  "FLMxYQX1zaepCgmiSmwbT39w",
+                                  "PL3xl1Whm1aOHKzs2kbzJJjNMs6_EuDIMi",
+                                  "PLL0_pgYXAhihKLz9tld7aQJXlV7kr33OG",
+                                  "PLL0_pgYXAhihD-Rc7JBXOZeCgQirD1U22",
+                                  "PLL0_pgYXAhihqpZmI-QmdfM8TkRP3qdeL",
+                                  
+                                  "PLzoe-7u0fWF7QiFBKYNYG1R66T5A1IXMh",
+                                  "PLzoe-7u0fWF6SfgZJMkMrXViwaFFNjTVV",
+                                  "PLzoe-7u0fWF47GBqJ-1wZBxmCRUENQzgx",
+                                  "PLzoe-7u0fWF5cMVab8hEfo3CHJfehpRyx",
+                                  "PLzoe-7u0fWF6EDXoCogGlWZsmy3yXzFN7",
+                                  "PLzoe-7u0fWF6wWcQN0O_mDRMOCrvBsz6I",
+                                  "PLzoe-7u0fWF78-Ipbrz-IkzRjptB_mSSr",
+                                  
+                                  "PLzoe-7u0fWF5zb4Qcx31BXMFLj0lRNuLm",
+                                  "PLTiSALGQMIQ4Yah7T39xeSBrbMnL8vkOU",
+                                  "PLzoe-7u0fWF4Itu-Q1b2ZmGrtHnTgUQo5",
+                                  "PLzoe-7u0fWF7dp9vSCG4XPK3UDAHgIEZs",
+                                  "PLzoe-7u0fWF69XcpXGrib6RfQfvd21Sls",
+                                  "PLTiSALGQMIQ5Fu8ULFjrGKbyiUyX39ryr",
+                                  "PLTiSALGQMIQ5euI0xm50QIUwdXWwV8Lz7",
+                                  
+                                  "PLTiSALGQMIQ4zf0DFYYtt8aRfE4qLEXRs",
+                                  "PLTiSALGQMIQ7qwLCNNir1NuS--gajZmhT"
+                                  
+                                  ]
+                  }
+                  ]
 }
