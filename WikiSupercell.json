@@ -1,7 +1,7 @@
 {
     "product": "Wiki SuperCell",
     "version": 1.0,
-    "releaseDate": "2016-08-07T00:00:00.000Z",
+    "releaseDate": "2016-09-21T00:00:00.000Z",
     "AndroidAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
     "iOSAPIKey": "AIzaSyCOnGd-YXae_zg4SfpzHqgNe4cS8ZfEgfE",
     "numberOfVideos": 3,
@@ -58,6 +58,30 @@
                                   "PLz3utPLAut6HZfld5RtelSdXdLB0OTjj",
                                   "PLBkS3zMP77PEVkpksI2W52ofw27Y4JfU-"
                                   
+                                  ]
+                  },
+                  {
+                  "name": "Pokemon Go",
+                  "thumbnailUrl": "888-555-1212",
+                  "playlistIDs": [
+                                  "PL_cWgWi1q-o3WjlrpuAFqQZqQHSqjp1Rz",
+                                  "PLZ53q68oHkKZ3h-xO_SH7nPxpf1kefMUA",
+                                  "PL_VGbflD64WSxj19ylfDPwV0yLw14FtEr",
+                                  "PLMcwuBdgf1TBww0KTm-db0cYyZzyzRxYD",
+                                  "PLBjR5Q3_D2pxwA43MA4h1I7R8T4w6TkFT",
+                                  "PLNSEsNXsbHG1HvgnrWlo1Addji0ArokLl",
+                                  "PL6xZDznTIktUKA-Ktv9Bp5uhAgrB-ZXzA",
+                                  "PL9O6nOlKeOleuJAkE8svcxOyiYE1OQ7sh",
+                                  "PLckmueNaOA8tR2tobx_njZRnk_Zk_b0sm",
+                                  
+                                  "PLSRCVBPKRukzysqigJZNMhpOT_OujpFxi",
+                                  "PLBkS3zMP77PH7ktlrDuBfrHZw-Izf3WDy",
+                                  "PLBkS3zMP77PFqCdpdzPo0apLVkJzBcvxK",
+                                  "PLL9ooUIWVxGnzysxgF_Ft24y38xhBD58W",
+                                  "PLb_-xkDtfVvF-V_eKy0zE4Cxo0UEm7G0w",
+                                  "PLHK0OGn9OrOsPRBnmueciuhQZGsEJ2dwR",
+                                  "PLHK0OGn9OrOs_x8Z4RvxBDudGHRUS5xTe",
+                                  "PLz7GQsHwn5srtz-3akihSC9mAFrmQiKc1"
                                   ]
                   },
                   {
