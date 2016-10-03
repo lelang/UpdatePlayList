@@ -1,21 +1,20 @@
 {
     "product": "Wiki SuperCell",
     "version": 1.0,
-    "releaseDate": "2016-09-21T00:00:00.000Z",
+    "releaseDate": "2016-10-02T00:00:00.000Z",
     "AndroidAPIKey": "AIzaSyAQLd8p5P1B_NO_Ap870GgQ2_if1eL3eIw",
     "iOSAPIKey": "AIzaSyCOnGd-YXae_zg4SfpzHqgNe4cS8ZfEgfE",
     "numberOfVideos": 3,
-    "channelString": "UCTqoYXL5p_aOdsgDWzxRBzQ,UC874WmmCVtIwTG4gQbWHKUQ,UCxNMYToYIBPYV829BJcmUQg,UCMxYQX1zaepCgmiSmwbT39w,UC2l8G7UE41Vaby59Dfg6r3w,UCMYdLBEudBeU-c0AguEaiHA,UCpk3zQzLnN5WwcA8gRcPgiw,UC3S6nIDGJ5OtpC-mbvFA8Ew",
+    "channelString": "UCTqoYXL5p_aOdsgDWzxRBzQ,UC874WmmCVtIwTG4gQbWHKUQ,UCxNMYToYIBPYV829BJcmUQg,UCMxYQX1zaepCgmiSmwbT39w,UC2l8G7UE41Vaby59Dfg6r3w,UCMYdLBEudBeU-c0AguEaiHA,UCpk3zQzLnN5WwcA8gRcPgiw,UC3S6nIDGJ5OtpC-mbvFA8Ew,UCR0It5-1cif1cMKBUtUW8pg,UCh7EqOZt7EvO2osuKbIlpGg",
     "channels": [
-                 "UCTqoYXL5p_aOdsgDWzxRBzQ",
-                 "UC874WmmCVtIwTG4gQbWHKUQ",
                  "UCxNMYToYIBPYV829BJcmUQg",
                  "UCMxYQX1zaepCgmiSmwbT39w",
-                 
                  "UC2l8G7UE41Vaby59Dfg6r3w",
                  "UCMYdLBEudBeU-c0AguEaiHA",
                  "UCpk3zQzLnN5WwcA8gRcPgiw",
-                 "UC3S6nIDGJ5OtpC-mbvFA8Ew"
+                 "UC3S6nIDGJ5OtpC-mbvFA8Ew",
+                 "UCR0It5-1cif1cMKBUtUW8pg",
+                 "UCh7EqOZt7EvO2osuKbIlpGg"
                  
                  ],
     "playlists": [
@@ -24,9 +23,14 @@
                   "thumbnailUrl": "888-555-1212",
                   "playlistIDs": [
                                   "PLckmueNaOA8uQwBWDXGVNHHnTby4Pjzun",
+                                  "PLz3utPLAut6E0UGA2nCkiOL3sodpv4U8M",
                                   "PLVtnr346pBuQ_F1ub_u3m2v6LGyJ8JY3p",
                                   "PLVtnr346pBuTT7lvDiurDeZRLoeNYk9lK",
                                   "PLVtnr346pBuStYdMB-442vc16Ofo7wXDL",
+                                  "PLz3utPLAut6GKZADTdg3zK6lh20D0KB6Z",
+                                  "PLz3utPLAut6HZfld5RtelSdXdLB0OTjj_",
+                                  "PLz3utPLAut6HAIeljNAfVYfQ_BL4G4ivS",
+                                  "PLz3utPLAut6HZfld5RtelSdXdLB0OTjj",
                                   "PLVtnr346pBuQd55-lqpnIKfumDoOZsneK",
                                   
                                   "PLVtnr346pBuQxv1ttQyqIY5UYUzr-x3xJ",
@@ -52,10 +56,6 @@
                                   "PLzoe-7u0fWF6vmkJmlnx6yoCwdft04eE_",
                                   "PLzoe-7u0fWF4WEVo4yAW09AVIR2k0hziw",
                                   "PLTiSALGQMIQ6tBKA7znVx-mSddGkwUOGH",
-                                  "PLz3utPLAut6E0UGA2nCkiOL3sodpv4U8M",
-                                  "PLz3utPLAut6GKZADTdg3zK6lh20D0KB6Z",
-                                  "PLz3utPLAut6HAIeljNAfVYfQ_BL4G4ivS",
-                                  "PLz3utPLAut6HZfld5RtelSdXdLB0OTjj",
                                   "PLBkS3zMP77PEVkpksI2W52ofw27Y4JfU-"
                                   
                                   ]
